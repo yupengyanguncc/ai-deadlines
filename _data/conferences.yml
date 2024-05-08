@@ -1,3 +1,18 @@
+- title: BMVC
+  year: 2024
+  id: bmvc24
+  full_name: The British Machine Vision Conference
+  link: https://bmvc2024.org/
+  deadline: '2024-05-10 23:59:59'
+  abstract_deadline: '2024-04-26 23:59:59'
+  timezone: GMT
+  place: Glasgow, UK
+  date: November 25 - November 28, 2024
+  start: 2024-11-25
+  end: 2024-11-28
+  sub: ML
+  note: Mandatory abstract deadline on April 26, 2024
+
 - title: KIL
   year: 2024
   id: kil24
