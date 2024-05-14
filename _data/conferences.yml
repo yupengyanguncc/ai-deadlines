@@ -14,11 +14,141 @@
   sub: ML
   note: Mandatory abstract deadline on Aug 07, 2024, and supplementary material deadline on Aug 19, 2024. More info <a href='https://aaai.org/aaai-conference/save-the-date-aaai-25/'>here</a>.
 
+- title: BMVC
+  year: 2024
+  id: bmvc24
+  full_name: The British Machine Vision Conference
+  link: https://bmvc2024.org/
+  deadline: '2024-05-10 23:59:59'
+  abstract_deadline: '2024-04-26 23:59:59'
+  timezone: GMT
+  place: Glasgow, UK
+  date: November 25 - November 28, 2024
+  start: 2024-11-25
+  end: 2024-11-28
+  sub: ML
+  note: Mandatory abstract deadline on April 26, 2024
+
+- title: KIL
+  year: 2024
+  id: kil24
+  full_name: KDD Workshop on Knowledge-infused Learning
+  link: https://kil-workshop.github.io/
+  deadline: '2024-05-25 23:59:59'
+  timezone: UTC-12
+  place: Barcelona, Spain
+  date: August 25, 2024
+  start: 2024-08-20
+  end: 2024-08-25
+  sub: ['NLP', 'ML', 'DM']
+  Note: More info <a href='https://kil-workshop.github.io/'>here</a>
+
+- title: ISMIR
+  year: 2024
+  id: ismir24
+  link: https://ismir2024.ismir.net/
+  deadline: '2024-04-12 23:59:59'
+  abstract_deadline: '2024-04-05 23:59:59'
+  timezone: UTC-12
+  place: San Francisco, California, USA
+  date: November 10-14, 2024
+  start: 2024-11-10
+  end: 2024-11-14
+  hindex: 43
+  sub: SP
+  note: Mandatory abstract deadline on April 5th, 2024. More info <a href='https://ismir2024.ismir.net/authors/call-for-papers/'>here</a>.
+
+- title: SPAICE
+  year: 2024
+  id: spaice24
+  full_name: 1st ESA Conference on AI in and for Space
+  link: https://spaice.esa.int/
+  deadline: '2024-05-19 23:59:59'
+  timezone: UTC+2
+  place: ECSAT, Harwell, United Kingdom
+  date: September 17-19, 2024
+  start: 2024-09-17
+  end: 2024-09-19
+  sub: ML
+  note: Best papers will be selected for special issues on AI and space in IAA Acta Astronautica and Springer Astrodynamics. More info <a href='https://spaice.esa.int/call-for-papers/'>here</a>.
+  
+- title: EMNLP
+  year: 2024
+  id: emnlp24
+  link: https://2024.emnlp.org/
+  deadline: '2024-06-15 23:59:00'
+  timezone: UTC-12
+  place: Miami, Florida, USA
+  date: November 12-16, 2024
+  start: 2024-11-12
+  end: 2024-11-16
+  sub: NLP
+  note: More info <a href='https://2024.emnlp.org/calls/main_conference_papers/'>here</a>.
+  
+- title: CIKM
+  year: 2024
+  id: CIKM24
+  link: https://cikm2024.org/
+  deadline: '2024-05-20 23:59:59'
+  abstract_deadline: '2024-05-13 23:59:59'
+  timezone: UTC-12
+  place: Boise, Idaho, USA
+  data: October 21 - October 25, 2024
+  start: 2024-10-21
+  end: 2024-10-25
+  sub: ['DM', 'KR']
+  note: Mandatory abstract deadline on May 13, 2024. More info <a href='https://cikm2024.org/call-for-papers/'>here</a>.
+
+- title: SIGGRAPH Asia
+  year: 2024
+  id: siggraphasia24  # title as lower case + last two digits of year
+  full_name: SIGGRAPH ASIA 2024  # full conference name
+  link: https://asia.siggraph.org/2024/
+  deadline: 2023-05-19 23:59
+  timezone: UTC-12
+  place: Tokyo, Japan
+  date: December, 12-15, 2023
+  sub: CG
+  note:
+
+- title: NeurIPS
+  year: 2024
+  id: neurips24
+  full_name: Conference on Neural Information Processing Systems
+  hindex: 309
+  link: https://nips.cc/Conferences/2024
+  paperslink: https://proceedings.neurips.cc/
+  pwclink: https://paperswithcode.com/conference/neurips-2024-12
+  deadline: '2024-05-22 19:59:59'
+  abstract_deadline: '2024-05-15 19:59:59'
+  timezone: UTC
+  place: Vancouver, Canada
+  date: December 9 - December 15, 2024
+  start: 2024-12-09
+  end: 2024-12-15
+  sub: ML
+  note: Mandatory abstract deadline on May 15, 2024
+
+- title: AABI
+  year: 2024
+  id: aabi24
+  full_name: Advances in Approximate Bayesian Inference
+  link: http://approximateinference.org/
+  deadline: '2024-03-29 23:59:00'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: July 21, 2024
+  start: 2024-07-21
+  end: 2024-07-21
+  sub: ML
+  note: Co-located with ICML 2024. Submission deadlines are March 29 (proceedings and workshop track) and May 10 (fast track). More info <a href="http://approximateinference.org/call/index.html">here</a>
+>>>>>>> d982ce4ec57c6e4d7f0351d45ef1b953b8427697
+
 - title: CoRL
   year: 2024
   id: corl24
   link: https://corl.org
-  deadline: '2023-06-06 23:59:00'
+  deadline: '2024-06-06 23:59:00'
   timezone: UTC-12
   place: Munich, Germany
   date: November 06-09, 2024
@@ -34,7 +164,7 @@
   abstract_deadline: '2024-04-12 23:59:59'
   timezone: UTC-12
   place: Melbourne, Australia
-  data: October 28 - November 1, 2024
+  date: October 28 - November 1, 2024
   start: 2024-10-28
   end: 2024-11-01
   sub: CV
@@ -167,7 +297,8 @@
   year: 2024
   id: rlc24
   link: https://rl-conference.cc/
-  deadline: '2024-03-01 23:59:59'
+  deadline: '2024-03-08 23:59:59'
+  abstract_deadline: '2024-03-01 23:59:59'
   timezone: UTC-12
   place: Amherst, Massachusetts, USA
   date: August 09-12, 2024
@@ -253,9 +384,11 @@
   deadline: '2024-03-29 23:59:59'
   abstract_deadline: '2024-03-22 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: October, 2024
-  sub: NLP
+  place: Philadelphia, USA
+  date: October 7-9, 2024
+  start: 2024-10-07
+  end: 2024-10-09
+  sub: ['NLP', 'ML']
   note: Mandatory abstract deadline on March 22, 2024. More info <a href='https://colmweb.org/cfp.html'>here</a>.
 
 - title: IJCAI
@@ -2281,7 +2414,7 @@
   id: mipr24  # title as lower case + last two digits of year
   full_name: International Conference on Multimedia Information Processing and Retrieval # full conference name
   link: https://sites.google.com/view/mipr2024
-  deadline: '2024-03-15 23:59:59'
+  deadline: '2024-04-15 23:59:59'
   timezone: UTC-7
   place: San Jose, USA
   date: August, 07-09, 2024
@@ -2303,3 +2436,19 @@
   end: 2024-07-16
   sub: ML
   note: Check the conference website for details the Challenge Track, Industry Statements and Demo Track, and Late Breaking Arxiv Track.
+
+- title: AutoML
+  year: 2024
+  id: automl24  # title as lower case + last two digits of year
+  full_name: International Conference on Automated Machine Learning  # full conference name
+  link: https://2024.automl.cc/
+  deadline: '2024-02-29 23:59:59'
+  abstract_deadline: '2024-02-26 23:59:59'
+  timezone: UTC-12
+  place: Paris, France
+  date: September, 09-12, 2024
+  start: 2024-09-09
+  end: 2024-09-12
+  sub: ML
+  note: Check the conference website for tutorials, contributions to the journal track and workshop deadlines
+
