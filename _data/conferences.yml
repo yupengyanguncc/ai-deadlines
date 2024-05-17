@@ -24,7 +24,7 @@
   start: 2025-02-25
   end: 2025-03-04
   hindex: 212
-  sub: ML
+  sub: ['DM', 'KR', 'ML', 'RO', 'NLP', 'SP', 'CV', 'CG', 'HCI', 'AP']
   note: Mandatory abstract deadline on Aug 07, 2024, and supplementary material deadline on Aug 19, 2024. More info <a href='https://aaai.org/aaai-conference/save-the-date-aaai-25/'>here</a>.
 
 - title: BMVC
