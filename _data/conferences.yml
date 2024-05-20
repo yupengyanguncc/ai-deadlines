@@ -88,10 +88,10 @@
   id: siggraphasia24  # title as lower case + last two digits of year
   full_name: SIGGRAPH ASIA 2024  # full conference name
   link: https://asia.siggraph.org/2024/
-  deadline: 2023-05-19 23:59
+  deadline: 2024-05-19 23:59
   timezone: UTC-12
   place: Tokyo, Japan
-  date: December, 12-15, 2023
+  date: December, 3-6, 2024
   sub: CG
   note:
 
