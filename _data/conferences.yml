@@ -1,3 +1,48 @@
+- title: NeurIPS [Dataset and Benchmarks Track]
+  year: 2024
+  id: neurips24
+  full_name: Conference on Neural Information Processing Systems - Dataset and Benchmarks Track
+  hindex: 309
+  link: https://nips.cc/Conferences/2024/CallForDatasetsBenchmarks
+  deadline: '2024-06-05 19:59:59'
+  abstract_deadline: '2024-04-29 19:59:59'
+  timezone: UTC
+  place: Vancouver, Canada
+  date: December 9 - December 15, 2024
+  start: 2024-12-09
+  end: 2024-12-15
+  sub: ['DM', 'ML', 'NLP', 'SP', 'CV']
+  note: Mandatory abstract deadline on May 29, 2024, and supplementary material deadline on JUn 12, 2024. More info <a href='https://nips.cc/Conferences/2024/CallForDatasetsBenchmarks'>here</a>.
+
+- title: ICRA
+  year: 2025
+  id: icra25
+  link: https://2025.ieee-icra.org
+  deadline: '2024-09-15 23:59:59'
+  timezone: America/Los_Angeles
+  place: Atlanta, USA
+  date: May 19 - May 23, 2025
+  start: 2025-05-19
+  end: 2025-05-23
+  hindex: 119
+  sub: RO
+
+- title: AAAI
+  year: 2025
+  id: aaai25
+  full_name: AAAI Conference on Artificial Intelligence
+  link: https://aaai.org/aaai-conference/save-the-date-aaai-25/
+  deadline: '2024-08-15 23:59:59'
+  abstract_deadline: '2023-08-07 23:59:59'
+  timezone: UTC-12
+  place: Philadelphia, USA
+  date: February 25 - March 04, 2025
+  start: 2025-02-25
+  end: 2025-03-04
+  hindex: 212
+  sub: ['DM', 'KR', 'ML', 'RO', 'NLP', 'SP', 'CV', 'CG', 'HCI', 'AP']
+  note: Mandatory abstract deadline on Aug 07, 2024, and supplementary material deadline on Aug 19, 2024. More info <a href='https://aaai.org/aaai-conference/save-the-date-aaai-25/'>here</a>.
+
 - title: BMVC
   year: 2024
   id: bmvc24
@@ -634,7 +679,7 @@
 - title: ICRA
   year: 2024
   id: icra24
-  link: http://ieee-icra.org/
+  link: http://2024.ieee-icra.org/
   deadline: '2023-09-15 23:59:59'
   timezone: America/Los_Angeles
   place: Yokohama, Japan
