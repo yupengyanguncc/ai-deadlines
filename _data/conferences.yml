@@ -1,18 +1,18 @@
 - title: NeurIPS [Dataset and Benchmarks Track]
   year: 2024
-  id: neurips24
+  id: neurips24DBT
   full_name: Conference on Neural Information Processing Systems - Dataset and Benchmarks Track
   hindex: 309
   link: https://nips.cc/Conferences/2024/CallForDatasetsBenchmarks
   deadline: '2024-06-05 19:59:59'
-  abstract_deadline: '2024-04-29 19:59:59'
+  abstract_deadline: '2024-05-29 19:59:59'
   timezone: UTC
   place: Vancouver, Canada
   date: December 9 - December 15, 2024
   start: 2024-12-09
   end: 2024-12-15
   sub: ['DM', 'ML', 'NLP', 'SP', 'CV']
-  note: Mandatory abstract deadline on May 29, 2024, and supplementary material deadline on JUn 12, 2024. More info <a href='https://nips.cc/Conferences/2024/CallForDatasetsBenchmarks'>here</a>.
+  note: Mandatory abstract deadline on May 29, 2024, and supplementary material deadline on June 12, 2024. More info <a href='https://nips.cc/Conferences/2024/CallForDatasetsBenchmarks'>here</a>.
 
 - title: ICRA
   year: 2025
