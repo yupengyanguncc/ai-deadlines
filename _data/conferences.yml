@@ -58,6 +58,18 @@
   sub: ML
   note: Mandatory abstract deadline on April 26, 2024
 
+- title: ICASSP
+  year: 2025
+  id: icassp25
+  link: https://2025.ieeeicassp.org/
+  deadline: '2024-09-09 23:59:59'
+  timezone: UTC-12
+  place: Hyderabad, India
+  date: April 6-11, 2025
+  start: 2025-04-6
+  end: 2025-04-11
+  sub: SP
+
 - title: KIL
   year: 2024
   id: kil24
