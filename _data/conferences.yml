@@ -1,3 +1,17 @@
+- title: Iberamia
+  year: 2024
+  id: iberamia24
+  full_name: 18th Ibero-American Conference on Artificial Intelligence
+  hindex: 14
+  link: https://www.iberamia.org/iberamia/iberamia2024/
+  deadline: '2024-06-09 23:59:59'
+  timezone: UTC-12
+  place: Montevideo, Uruguay
+  date: November 13-15, 2024
+  start: 2024-11-13
+  end: 2024-11-15
+  sub: ['ML', 'NLP', 'CV']
+
 - title: NeurIPS [Dataset and Benchmarks Track]
   year: 2024
   id: neurips24
