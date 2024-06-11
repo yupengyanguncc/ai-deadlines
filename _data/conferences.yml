@@ -1,8 +1,8 @@
 - title: WSDM
-  full_name: ACM International Conference on Web Search and Data Mining
-  note: Abstract deadline on August 7, 2024
   year: 2025
   id: wsdm25
+  full_name: ACM International Conference on Web Search and Data Mining
+  note: Abstract deadline on August 7, 2024
   link: https://www.wsdm-conference.org/2025/
   deadline: '2024-08-14 23:59:00'
   timezone: UTC-12
@@ -55,7 +55,7 @@
   hindex: 119
   sub: RO
 
-  - title: WACV
+- title: WACV
   year: 2025
   id: wacv25
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
