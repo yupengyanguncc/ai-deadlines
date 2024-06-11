@@ -55,6 +55,19 @@
   hindex: 119
   sub: RO
 
+  - title: WACV
+  year: 2025
+  id: wacv25
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
+  link: https://wacv2025.thecvf.com/
+  deadline: '2024-07-14 23:59:59'
+  timezone: America/Los_Angeles
+  place: Tucson, Arizona
+  date: Feb 28 – Mar 4, 2025
+  start: 2025-2-28
+  end: 2025-3-4
+  sub: ['ML', 'CV']
+
 - title: AAAI
   year: 2025
   id: aaai25
