@@ -57,6 +57,7 @@ To add or update a deadline:
 - [ds-deadlines.github.io (Distributed Systems, Event-based Systems, Performance, and Software Engineering conferences)][18] by @ds-deadlines
 - [https://deadlines.cpusec.org/ (Computer Architecture-Security conferences)][19] by @hoseinyavarzadeh
 - [se-deadlines.github.io (Software engineering conferences)][20] by @sivanahamer and @imranur-rahman
+- [awesome-mlss (Machine Learning Summer Schools)][21] by @sshkhr and @gmberton
 
 ## License
 
@@ -85,3 +86,4 @@ It uses:
 [18]: https://ds-deadlines.github.io
 [19]: https://deadlines.cpusec.org/
 [20]: https://se-deadlines.github.io/
+[21]: https://awesome-mlss.com/
