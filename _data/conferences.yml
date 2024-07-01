@@ -1,3 +1,18 @@
+- title: COLING
+  year: 2025
+  id: coling25
+  full_name: The 31st International Conference on Computational Linguistics
+  link: https://coling2025.org/
+  deadline: '2024-09-16 23:59:59'
+  timezone: UTC-12
+  place: Abu Dhabi, UAE
+  date: January 19-24, 2025
+  start: 2025-01-19
+  end: 2025-01-24
+  hindex: 73
+  sub: NLP
+  note: More info can be found <a href="https://coling2025.org/calls/main_conference_papers/#important-dates">here</a>.
+
 - title: WSDM
   year: 2025
   id: wsdm25
