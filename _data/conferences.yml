@@ -1,3 +1,19 @@
+- title: CHI
+  year: 2025
+  id: chi25
+  full_name: The ACM Conference on Human Factors in Computing Systems
+  link: https://chi2025.acm.org/
+  deadline: '2024-09-12 23:59:59'
+  abstract_deadline: '2024-09-05 23:59:59'
+  timezone: UTC-12
+  place: Yokohama, Japan
+  date: April 26 - May 01, 2025
+  start: 2025-04-26
+  end: 2025-05-01
+  hindex: 122
+  sub: HCI
+  note: Mandatory abstract deadline on Sep 05, 2024. More info <a href='https://chi2025.acm.org/for-authors/papers/'>here</a>.
+
 - title: COLING
   year: 2025
   id: coling25
