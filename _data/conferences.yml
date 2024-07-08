@@ -11,7 +11,22 @@
   end: 2025-05-23
   sub: ['KR', 'ML', 'RO', 'AP']
   note: Mandatory abstract deadline on Oct 09, 2024. More info <a href='https://aamas2025.org/'>here</a>.
-
+  
+- title: CHI
+  year: 2025
+  id: chi25
+  full_name: The ACM Conference on Human Factors in Computing Systems
+  link: https://chi2025.acm.org/
+  deadline: '2024-09-12 23:59:59'
+  abstract_deadline: '2024-09-05 23:59:59'
+  timezone: UTC-12
+  place: Yokohama, Japan
+  date: April 26 - May 01, 2025
+  start: 2025-04-26
+  end: 2025-05-01
+  hindex: 122
+  sub: HCI
+  note: Mandatory abstract deadline on Sep 05, 2024. More info <a href='https://chi2025.acm.org/for-authors/papers/'>here</a>.
 
 - title: COLING
   year: 2025
@@ -2563,3 +2578,17 @@
   sub: ML
   note: Check the conference website for tutorials, contributions to the journal track and workshop deadlines
 
+
+- title: 3DV
+  year: 2025
+  id: 3dv25
+  full_name: International Conference on 3D Vision
+  link: https://3dvconf.github.io/2025/
+  deadline: '2024-08-12 23:59:59'
+  timezone: UTC-0
+  place: Singapore
+  date: March, 25-28, 2025
+  start: '2025-03-25'
+  end: '2025-03-28'
+  sub: CV
+  hindex: 47
