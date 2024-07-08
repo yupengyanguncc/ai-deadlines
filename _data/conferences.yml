@@ -2564,3 +2564,17 @@
   sub: ML
   note: Check the conference website for tutorials, contributions to the journal track and workshop deadlines
 
+
+- title: 3DV
+  year: 2025
+  id: 3dv25
+  full_name: International Conference on 3D Vision
+  link: https://3dvconf.github.io/2025/
+  deadline: '2024-08-12 23:59:59'
+  timezone: UTC-0
+  place: Singapore
+  date: March, 25-28, 2025
+  start: '2025-03-25'
+  end: '2025-03-28'
+  sub: CV
+  hindex: 47
