@@ -1,3 +1,18 @@
+- title: AAMAS
+  year: 2025
+  id: aamas25
+  link: https://aamas2025.org/
+  deadline: '2024-10-16 23:59:59'
+  abstract_deadline: '2024-10-09 23:59:59'
+  timezone: UTC-12
+  place: Detroit, Michigan, USA
+  date: May 19 - May 23, 2025
+  start: 2025-05-19
+  end: 2025-05-23
+  sub: ['KR', 'ML', 'RO', 'AP']
+  note: Mandatory abstract deadline on Oct 09, 2024. More info <a href='https://aamas2025.org/'>here</a>.
+
+
 - title: COLING
   year: 2025
   id: coling25
