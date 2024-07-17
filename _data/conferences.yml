@@ -1,3 +1,18 @@
+- title: WACV
+  year: 2025
+  id: wacv25
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
+  link: https://wacv2025.thecvf.com/
+  deadline: '2024-09-09 23:59:59'
+  timezone: UTC-7
+  place: Tucson, Arizona
+  date: Feb 28 – Mar 4, 2025
+  start: 2025-2-28
+  end: 2025-3-4
+  hindex: 109
+  sub: ['ML', 'CV']
+  note: This is the second round of submissions. Summplementary material deadline on Sep 11, 2024. More info <a href='https://wacv2025.thecvf.com/'>here</a>.
+  
 - title: AAMAS
   year: 2025
   id: aamas25
