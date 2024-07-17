@@ -256,7 +256,7 @@
   sub: ML
   note: Mandatory abstract deadline on May 15, 2024
 
-  - title: ECML PKDD
+- title: ECML PKDD
   year: 2024
   id: ecmlpkdd2024
   link: https://2024.ecmlpkdd.org/
