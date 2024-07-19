@@ -1,3 +1,33 @@
+- title: ECIR
+  year: 2025
+  id: ecir24
+  full_name: European Conference on Information Retrieval
+  link: https://ecir2025.eu/
+  deadline: '2024-10-09 23:59:59'
+  abstract_deadline: '2024-10-02 23:59:59'
+  timezone: UTC-12
+  place: Lucca, Tuscany, Italy
+  date: April 6 - April 10, 2025
+  start: 2025-04-06
+  end: 2025-04-10
+  sub: DM
+  note: Abstract deadline on Oct 2, 2024. More info <a href='https://ecir2025.eu/'>here</a>.  
+  
+- title: WACV
+  year: 2025
+  id: wacv25
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
+  link: https://wacv2025.thecvf.com/
+  deadline: '2024-09-09 23:59:59'
+  timezone: UTC-7
+  place: Tucson, Arizona
+  date: Feb 28 – Mar 4, 2025
+  start: 2025-2-28
+  end: 2025-3-4
+  hindex: 109
+  sub: ['ML', 'CV']
+  note: This is the second round of submissions. Summplementary material deadline on Sep 11, 2024. More info <a href='https://wacv2025.thecvf.com/'>here</a>.
+  
 - title: AAMAS
   year: 2025
   id: aamas25
