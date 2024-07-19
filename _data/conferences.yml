@@ -1,6 +1,6 @@
 - title: ECIR
   year: 2025
-  id: ecir24
+  id: ecir25
   full_name: European Conference on Information Retrieval
   link: https://ecir2025.eu/
   deadline: '2024-10-09 23:59:59'
@@ -15,7 +15,7 @@
   
 - title: WACV
   year: 2025
-  id: wacv25
+  id: wacv25_2
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
   link: https://wacv2025.thecvf.com/
   deadline: '2024-09-09 23:59:59'
