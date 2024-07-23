@@ -1,3 +1,18 @@
+- title: LoG
+  year: 2024
+  id: log24
+  full_name: Learning on Graphs Conference
+  link: https://logconference.org
+  deadline: 2024-09-11 23:59
+  abstract_deadline: 2024-09-04 23:59
+  timezone: UTC-12
+  place: Virtual, free to attend
+  date: November 26 - November 29, 2024
+  start: 2024-11-26
+  end: 2024-11-29
+  sub: ['ML', 'DM', 'KR']
+  note: Abstract deadline on Sep 04, 2024. More info <a href='https://logconference.org'>here</a>. 
+
 - title: ECIR
   year: 2025
   id: ecir25
