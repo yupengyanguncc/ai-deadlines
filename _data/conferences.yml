@@ -1,3 +1,17 @@
+- title: NAACL
+  year: 2025
+  id: naacl25
+  link: https://2025.naacl.org
+  deadline: '2024-10-15 23:59:59'
+  timezone: UTC-12
+  place: Albuquerque, New Mexico, USA
+  date: April 29- May 4, 2024
+  start: 2025-04-29
+  end: 2025-05-04
+  hindex: 132
+  sub: NLP
+  note: All submissions must be done through ARR. More info <a href='https://2025.naacl.org/calls/papers/'>here</a>.
+
 - title: ICLR
   year: 2025
   id: iclr25
