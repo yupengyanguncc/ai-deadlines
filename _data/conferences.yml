@@ -2681,3 +2681,16 @@
   end: '2025-03-28'
   sub: CV
   hindex: 47
+
+- title: WAFR
+  year: 2025
+  id: wafr25
+  full_name: The 15th International Workshop on the Algorithmic Foundations of Robotics
+  link: https://www.algorithmic-robotics.org/
+  deadline: '2024-06-13 23:59:59'
+  timezone: UTC-12
+  place: Chicago, USA
+  date: October, 7-9, 2024'
+  start: '2024-10-07'
+  end: '2024-10-09'
+  sub: RO
